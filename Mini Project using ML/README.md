@@ -28,14 +28,7 @@ To run the application locally:
 - **Error Handling**: Comprehensive input validation and error management
 - **Logging**: Application monitoring and debugging capabilities
 
-## 📁 Project Structure
-- `data/` : Complete Pima Indians Diabetes Dataset (768 samples)
-- `notebooks/` : Jupyter notebooks for data exploration and analysis
-- `ml_model/` : Machine learning model training and evaluation scripts
-- `webapp/` : Flask web application with frontend and backend
-- `deployment/` : Production deployment configuration and guides
-
-## 🔥 Key Features
+##  Key Features
 
 ### Web Application Features:
 - **Interactive Prediction Form** with 8 health parameters
